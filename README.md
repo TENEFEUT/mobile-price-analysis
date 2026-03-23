@@ -77,5 +77,4 @@ Projet réalisé par Jeffrick Zemgmo Tenefeut
 ---
 
 ## Lien du projet
-
-(À ajouter après mise en ligne)
+https://github.com/TENEFEUT/mobile-price-analysis.git
